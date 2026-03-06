@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/simple_nextjs_project//_next/:path+",
+        "destination": "/simple_nextjs_project/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
