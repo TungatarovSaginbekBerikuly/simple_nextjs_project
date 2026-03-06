@@ -3,7 +3,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/simple_nextjs_project//_next/:path+",
+        "source": "/.//_next/:path+",
         "destination": "/simple_nextjs_project/_next/:path+"
       }
     ],
