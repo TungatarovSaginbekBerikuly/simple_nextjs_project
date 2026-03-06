@@ -5,4 +5,4 @@
 :HL["/images/icons/discord.svg","image"]
 :HL["/images/icons/redit.svg","image"]
 :HL["/images/icons/twitter.svg","image"]
-0:{"buildId":"NK8fYviIWMjMr2QGrD2uU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"goIm68f4CAuXASehIEKsz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
