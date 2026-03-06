@@ -1,8 +1,8 @@
-:HL["./_next/static/chunks/a65a94bf3c21b4db.css","style"]
+:HL["/simple_nextjs_project/_next/static/chunks/a65a94bf3c21b4db.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap","style"]
 :HL["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css","style"]
 :HL["/images/icons/github.svg","image"]
 :HL["/images/icons/discord.svg","image"]
 :HL["/images/icons/redit.svg","image"]
 :HL["/images/icons/twitter.svg","image"]
-0:{"buildId":"5SbL0fVtDahLnIP1bllT9","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"NK8fYviIWMjMr2QGrD2uU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
